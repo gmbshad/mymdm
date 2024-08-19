@@ -29,9 +29,8 @@ require (
 	github.com/pressly/goose v2.3.0+incompatible
 	github.com/stretchr/testify v1.2.2 // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/crypto v0.0.0-20180614174826-fd5f17ee7299
-	golang.org/x/net v0.0.0-20180724234803-3673e40ba225
-	golang.org/x/sys v0.0.0-20180614134839-8883426083c0 // indirect
+	golang.org/x/crypto v0.17.0
+	golang.org/x/net v0.10.0
 	google.golang.org/appengine v1.2.0 // indirect
 	gopkg.in/Masterminds/squirrel.v1 v1.0.0-20170825200431-a6b93000bd21
 )
